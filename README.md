@@ -12,7 +12,7 @@
 
 <br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="lavish-dixit-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/lavish-dixit01"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dixitlavish2005@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/LavishDixit"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -224,10 +224,10 @@ Designed and shipped multiple end-to-end AI/ML systems spanning LLM-powered appl
 
 <div align="center">
 
-<a href="https://leetcode.com/LavishDixit"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=8B5CF6"/></a>
+<a href="https://leetcode.com/DixitLavish"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=8B5CF6"/></a>
 <a href="https://geeksforgeeks.org/user/LavishDixit"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA"/></a>
 <a href="https://hackerrank.com/LavishDixit"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=6D28D9"/></a>
-<a href="https://codechef.com/users/LavishDixit"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=7C3AED"/></a>
+<a href="https://www.codechef.com/users/lavishdixit"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=7C3AED"/></a>
 
 </div>
 
