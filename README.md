@@ -1,319 +1,350 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Lavish%20Dixit&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Lavish%20Dixit&fontSize=60&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20%7C%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Production-Grade+LLM+%26+RAG+Systems;Semantic+Search+%2B+Vector+Retrieval+Engineer;Python+%7C+FastAPI+%7C+FAISS+%7C+Sentence+Transformers;Pre-Final+Year+CSE+(AI+%26+ML)+%40+VIT+Bhopal" alt="Typing SVG" />
-
-<br/>
-
-![Academic](https://img.shields.io/badge/CGPA-8.32%2F10-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
-![University](https://img.shields.io/badge/VIT%20Bhopal-CSE%20(AI%20%26%20ML)-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
-![Location](https://img.shields.io/badge/Udaipur%2C%20Rajasthan-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production-grade+LLM+%26+RAG+systems;Semantic+Search+%2B+Vector+Retrieval+Engineer;Pre-Final+Year+CSE+(AI+%26+ML)+%40+VIT+Bhopal;Turning+embeddings+into+real+products" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://lavish-dixit-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/lavish-dixit01"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:dixitlavish2005@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/LavishDixit"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-6D28D9?style=flat-square&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/badge/CGPA-8.32%2F10-8B5CF6?style=flat-square&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/badge/📍-Udaipur,%20Rajasthan,%20India-4C1D95?style=flat-square&labelColor=1e1b2e"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=LavishDixit&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/LavishDixit?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&logo=github)
-![Stars](https://img.shields.io/github/stars/LavishDixit?style=for-the-badge&color=6D28D9&labelColor=1a1a2e&logo=github)
+<a href="https://lavish-dixit-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b2e"/></a>
+<a href="https://linkedin.com/in/lavish-dixit01"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b2e"/></a>
+<a href="mailto:dixitlavish2005@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b2e"/></a>
+<a href="https://github.com/LavishDixit"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b2e"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=LavishDixit&style=flat-square&color=8b5cf6&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/LavishDixit?style=flat-square&color=8b5cf6&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/github/stars/LavishDixit?style=flat-square&color=8b5cf6&labelColor=1e1b2e"/>
 
 </div>
 
 <br/>
 
-## ⟡ About Me
+---
+
+## 🪞 About Me
 
 ```yaml
-engineer:
-  name: "Lavish Dixit"
-  role: "AI / ML Engineer · Full Stack Developer"
-  focus: ["LLM Applications", "RAG Pipelines", "Semantic Search", "Vector Retrieval"]
-  mindset: "Ship production-grade AI systems, not notebooks"
+name: Lavish Dixit
+role: AI/ML Engineer (Aspiring) · LLM & RAG Systems · Full-Stack Developer
+education: B.Tech CSE (AI & Machine Learning) · VIT Bhopal University · CGPA 8.32/10
+focus: 
+  - Large Language Model (LLM) applications
+  - Retrieval-Augmented Generation (RAG) pipelines
+  - Semantic search & vector retrieval systems
+  - End-to-end AI product engineering (embeddings → deployment)
+currently_open_to:
+  - AI/ML Engineer internships
+  - AI Engineer internships
+  - Full-stack + GenAI collaborations
 ```
 
-I'm a pre-final year **B.Tech Computer Science Engineering (AI & Machine Learning)** student at **VIT Bhopal University** (CGPA: 8.32/10), specializing in **Large Language Model applications**, **Retrieval-Augmented Generation (RAG) pipelines**, and **semantic search systems**. I design, build, and ship end-to-end AI products — from embeddings and vector retrieval to full-stack deployment — with production concerns like latency, caching, and security baked in from day one.
+I design and ship **end-to-end AI systems** — from embeddings and vector retrieval to production APIs and deployed interfaces. My work sits at the intersection of **LLM engineering, semantic search, and full-stack development**, with a strong emphasis on building things that are actually production-ready, not just notebooks.
 
-My engineering approach blends **AI/ML depth** with **product thinking**: every project I build is designed to be used, not just demoed — whether that's a Chrome extension serving real-time LLM summaries or a semantic cache cutting redundant retrieval calls.
+---
 
-```text
-🔭 Open To:  AI/ML Engineer Internships · AI Engineer Roles · LLM & RAG Systems Work
-```
+## 🧠 Tech Stack
 
+<details open>
+<summary><b>Languages & Core</b></summary>
 <br/>
 
-## ⟡ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite&theme=dark"/>
 
-<div align="center">
+</details>
 
-**Languages**
-<br/>
-![Skills](https://skillicons.dev/icons?i=python,js,html,css&theme=dark)
-
-**Frontend**
-<br/>
-![Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)
-
-**Backend & Databases**
-<br/>
-![Skills](https://skillicons.dev/icons?i=fastapi,flask,sqlite&theme=dark)
-
-**Cloud, DevOps & Tooling**
-<br/>
-![Skills](https://skillicons.dev/icons?i=cloudflare,git,github,vscode,pytest&theme=dark)
-
-</div>
-
+<details open>
+<summary><b>AI / GenAI Frameworks</b></summary>
 <br/>
 
-## ⟡ AI / ML Expertise
+<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=flat-square&logo=langchain&logoColor=8B5CF6&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/badge/FAISS-6D28D9?style=flat-square&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-7C3AED?style=flat-square&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/badge/Groq%20API-8B5CF6?style=flat-square&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/badge/Llama%203.3--70B-A78BFA?style=flat-square&labelColor=1e1b2e"/>
+
+</details>
+
+<details open>
+<summary><b>Backend & APIs</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark"/>
+<img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-4C1D95?style=flat-square&logo=cloudflare&logoColor=white&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/badge/Chrome%20Extension%20API%20(MV3)-5B21B6?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1e1b2e"/>
+
+</details>
+
+<details open>
+<summary><b>Machine Learning & Data Science</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas&theme=dark"/>
+<img src="https://img.shields.io/badge/XGBoost-6D28D9?style=flat-square&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/badge/PCA%20%7C%20K--Means%20%7C%20GMM-7C3AED?style=flat-square&labelColor=1e1b2e"/>
+
+</details>
+
+---
+
+## 🤖 AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **LLM Applications** | ⭐⭐⭐⭐⭐ | Groq API, Llama 3.3-70B, streaming SSE responses, prompt engineering |
-| **RAG Pipelines** | ⭐⭐⭐⭐⭐ | Retrieval-Augmented Generation, semantic caching, context-aware retrieval |
-| **Semantic Search** | ⭐⭐⭐⭐⭐ | Sentence Transformers, FAISS vector indexing, cosine-similarity caching |
-| **Machine Learning** | ⭐⭐⭐⭐ | Random Forest, XGBoost, PCA, K-Means, Gaussian Mixture Models |
-| **Deep Learning** | ⭐⭐⭐⭐ | Scikit-learn based modeling, anomaly detection, classification pipelines |
-| **Data Engineering** | ⭐⭐⭐⭐ | NumPy, Pandas, feature engineering, data preprocessing at scale |
+| **LLM Applications** | ⭐⭐⭐⭐☆ | Prompt engineering, streaming SSE integration, multi-mode summarization pipelines |
+| **RAG Pipelines** | ⭐⭐⭐⭐☆ | End-to-end retrieval-augmented generation with FAISS + Sentence Transformers |
+| **Semantic Search** | ⭐⭐⭐⭐⭐ | Embedding-based retrieval at 2,000+ document scale, GMM-based topic clustering |
+| **Vector Databases** | ⭐⭐⭐⭐☆ | FAISS indexing, cosine-similarity semantic caching for redundant query elimination |
+| **Classical ML** | ⭐⭐⭐⭐☆ | Random Forest, XGBoost, anomaly detection for imbalanced classification (fraud) |
+| **Data Engineering** | ⭐⭐⭐☆☆ | Feature engineering, preprocessing pipelines with NumPy / Pandas |
 
 </div>
 
-<br/>
+---
 
-## ⟡ Featured Projects
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🧩 SummarAIze — AI Webpage Summarizer Chrome Extension</b></summary>
 <br/>
 
-A Chrome extension that summarizes any webpage in real time using **Llama 3.3-70B** via the **Groq API**, with streaming SSE responses across 5 summary modes and 13 Indian languages.
+Real-time webpage summarization extension powered by Llama 3.3-70B via the Groq API, with streaming responses and multi-language, multi-mode output.
 
-| Attribute | Detail |
+| | |
 |---|---|
-| **Stack** | JavaScript, Groq API, Llama 3.3-70B, Cloudflare Workers, Mozilla Readability, Chrome MV3 |
+| **Stack** | Groq API, Llama 3.3-70B, Cloudflare Workers, Mozilla Readability, Chrome MV3 |
 | **Scale** | 5 summary modes (Quick, Detailed, Bullets, ELI5, Q&A) · 13 Indian languages |
 | **Performance** | Real-time streaming via SSE for low-latency summarization |
-| **Security** | Cloudflare Worker proxy keeps 100% of API keys server-side |
-| **Impact** | Added summary history, one-click export, and right-click summarization for repeat usability |
-| **Repository** | [github.com/LavishDixit/SummarAIze](https://github.com/LavishDixit) |
+| **Security** | API keys kept fully server-side via a Cloudflare Worker proxy |
+| **Impact** | Summary history, one-click export, right-click summarization for repeat engagement |
+| **Repository** | [github.com/LavishDixit](https://github.com/LavishDixit) *(link repo here)* |
 
-Built a Cloudflare Worker proxy layer to fully isolate API credentials from the client, and integrated Mozilla Readability with custom DOM extraction for high-fidelity content ingestion prior to summarization.
+Engineered a Chrome extension that summarizes webpages using Llama 3.3-70B with streaming SSE responses across five distinct summary modes. Integrated Mozilla Readability with custom DOM extraction for high-quality content ingestion, and deployed a Cloudflare Worker proxy to keep API keys fully server-side.
 
 </details>
 
 <details>
-<summary><b>🧩 Semantic Search System with Semantic Cache</b></summary>
+<summary><b>🔍 Semantic Search System with Semantic Cache</b></summary>
 <br/>
 
-An end-to-end semantic search engine indexing 2,000+ documents using **Sentence Transformer embeddings** and **FAISS vector retrieval**, with fuzzy topic clustering via Gaussian Mixture Models.
+End-to-end semantic search engine combining dense retrieval with fuzzy topic clustering and query-level caching.
 
-| Attribute | Detail |
+| | |
 |---|---|
 | **Stack** | Python, Sentence Transformers, FAISS, FastAPI, GMM, Scikit-learn |
-| **Scale** | 2,000+ indexed documents with dense vector embeddings |
+| **Scale** | 2,000+ indexed documents |
 | **Performance** | Semantic cache via cosine similarity eliminates redundant retrieval calls |
-| **Security** | REST API exposure via FastAPI with controlled query handling |
-| **Impact** | Real-time query handling and cache management for production search workloads |
-| **Repository** | [github.com/LavishDixit/semantic-search-cache](https://github.com/LavishDixit) |
+| **Security** | REST API exposed through FastAPI with structured query handling |
+| **Impact** | Real-time query resolution with fuzzy topic clustering across overlapping categories |
+| **Repository** | [github.com/LavishDixit](https://github.com/LavishDixit) *(link repo here)* |
 
-Designed the semantic cache layer to short-circuit expensive vector searches for near-duplicate queries, exposing the full system through a FastAPI REST interface for real-time use.
+Built an end-to-end semantic search engine indexing thousands of documents using Sentence Transformers embeddings and FAISS vector retrieval, applying Gaussian Mixture Models for fuzzy topic clustering. Designed a semantic caching layer to reduce redundant compute and exposed the full system via a FastAPI REST API.
 
 </details>
 
 <details>
-<summary><b>🧩 Advanced Fraud Detection System</b></summary>
+<summary><b>🛡️ Advanced Fraud Detection System</b></summary>
 <br/>
 
-A fraud detection pipeline combining supervised learning models with anomaly detection for real-time transaction classification.
+Supervised + anomaly-based pipeline for high-accuracy transaction fraud classification.
 
-| Attribute | Detail |
+| | |
 |---|---|
 | **Stack** | Python, Random Forest, XGBoost, Scikit-learn, Pandas |
-| **Scale** | Multi-model ensemble across supervised + anomaly detection techniques |
-| **Performance** | Automated retraining workflows to adapt to evolving fraud patterns |
-| **Security** | Alerting mechanisms for real-time fraud flag escalation |
-| **Impact** | Continuously adapting model pipeline reducing false negatives over time |
-| **Repository** | [github.com/LavishDixit/fraud-detection-system](https://github.com/LavishDixit) |
+| **Scale** | Full transaction classification pipeline with automated retraining |
+| **Performance** | Precision/Recall on fraud class: ~80–95% · F1: ~85–95% |
+| **Security** | Anomaly detection layered on top of supervised models for evolving fraud patterns |
+| **Impact** | Automated retraining + alerting to continuously adapt to new fraud behavior |
+| **Repository** | [github.com/LavishDixit](https://github.com/LavishDixit) *(link repo here)* |
 
-Combined Random Forest and XGBoost classifiers with anomaly detection techniques, and implemented automated retraining with alerting to keep the system responsive to evolving fraud patterns.
+Developed a fraud detection pipeline combining supervised learning (Random Forest, XGBoost) with anomaly detection techniques for high-accuracy transaction classification, with automated retraining workflows and alerting to adapt to evolving fraud patterns.
 
 </details>
 
 <details>
-<summary><b>🧩 Trip Expense Splitter — Splitwise-Like Web App</b></summary>
+<summary><b>💸 Trip Expense Splitter — Splitwise-Like Web App</b></summary>
 <br/>
 
-A full-stack expense-sharing web application with a debt-simplification settlement algorithm for group expense reconciliation.
+Full-stack expense-sharing application with an optimized settlement algorithm.
 
-| Attribute | Detail |
+| | |
 |---|---|
 | **Stack** | Python, Flask, JavaScript, SQLite, REST APIs |
-| **Scale** | Group expense tracking with n-member settlement optimization |
-| **Performance** | Debt-simplification algorithm caps transactions at n−1 (down from all-pairs) |
+| **Scale** | Group-based expense tracking with real-time settlement |
+| **Performance** | Optimized settlement algorithm minimizing total transactions needed |
 | **Security** | RESTful API architecture with structured balance reconciliation |
-| **Impact** | Real-time expense tracking and simplified group settlements |
-| **Repository** | [github.com/LavishDixit/trip-expense-splitter](https://github.com/LavishDixit) |
+| **Impact** | Real-time expense tracking and dynamic frontend for group balances |
+| **Repository** | [github.com/LavishDixit](https://github.com/LavishDixit) *(link repo here)* |
 
-Architected a debt-simplification algorithm that minimizes the number of settlement transactions among group members, paired with a JavaScript frontend for real-time balance updates.
+Created a full-stack expense-sharing web application with an optimized settlement algorithm that minimizes the number of transactions needed across group members, backed by RESTful APIs and a dynamic frontend for real-time tracking.
 
 </details>
 
+---
+
+## 💼 Experience
+
+**Currently focused on academic projects and independent AI/ML engineering work** — actively seeking an AI/ML Engineer or AI Engineer internship to apply these skills in a production environment.
+
+*(Add internship/work experience here in the same format as below once available)*
+
+<details>
+<summary><b>Example format — Job Title · Company Name</b></summary>
 <br/>
 
-## ⟡ Experience
+**Date Range**
 
-**AI/ML Project Builder — Independent**
-<br/>
-*Aug 2025 – Present*
+Professional description of the role and impact.
 
-Designed and shipped multiple end-to-end AI/ML systems spanning LLM-powered applications, semantic search infrastructure, and classical ML pipelines, with a consistent focus on production readiness.
+- Scope of work bullet point
+- Scope of work bullet point
 
-- Built and deployed LLM-integrated products using streaming inference and serverless proxy architectures
-- Designed vector retrieval and semantic caching systems for low-latency search
-- Implemented supervised ML pipelines with automated retraining and monitoring
-- Architected full-stack applications with RESTful API design and relational data modeling
+`Skill Tag` `Skill Tag` `Skill Tag`
 
-`Python` `FastAPI` `FAISS` `LLMs` `RAG` `Flask` `Scikit-learn` `Git`
+</details>
 
-<br/>
+---
 
-## ⟡ Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🏆 CGPA 8.32/10 | B.Tech CSE (AI & ML), VIT Bhopal University |
-| 🏆 Graph Theory Programming Camp | AlgoUniversity |
-| 🏆 Applied ML in Python | University of Michigan (Coursera) |
-| 🏆 4+ Production AI/ML Projects | Spanning LLMs, RAG, semantic search & classical ML |
+| 🎓 Graph Theory Programming Camp | Algo University — Jun 2025 |
+| 📈 CGPA 8.32/10 | B.Tech CSE (AI & ML), VIT Bhopal University |
 
 </div>
 
-<br/>
+---
 
-## ⟡ Certifications
+## 📜 Certifications
 
 <div align="center">
 
 **Google**
-<br/>
-![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support%20Certificate-8B5CF6?style=flat-square&logo=google&logoColor=white)
 
-**University of Michigan**
-<br/>
-![Applied ML](https://img.shields.io/badge/Applied%20Machine%20Learning%20in%20Python-7C3AED?style=flat-square&logo=coursera&logoColor=white)
+<img src="https://img.shields.io/badge/Google%20IT%20Support-Google%20Career%20Certificates%20(Coursera)-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1e1b2e"/>
 
-**AlgoUniversity**
-<br/>
-![Graph Theory](https://img.shields.io/badge/Graph%20Theory%20Programming%20Camp-6D28D9?style=flat-square&logo=leetcode&logoColor=white)
+**Academic / University**
+
+<img src="https://img.shields.io/badge/Applied%20ML%20in%20Python-University%20of%20Michigan%20(Coursera)-6D28D9?style=for-the-badge&labelColor=1e1b2e"/>
+
+**Algo University**
+
+<img src="https://img.shields.io/badge/Graph%20Theory%20Programming%20Camp-Algo%20University-8B5CF6?style=for-the-badge&labelColor=1e1b2e"/>
 
 </div>
 
-<br/>
+---
 
-## ⟡ Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/DixitLavish"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=8B5CF6"/></a>
-<a href="https://geeksforgeeks.org/user/LavishDixit"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA"/></a>
-<a href="https://hackerrank.com/LavishDixit"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=6D28D9"/></a>
-<a href="https://www.codechef.com/users/lavishdixit"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=7C3AED"/></a>
+<a href="https://leetcode.com/DixitLavish"><img src="https://img.shields.io/badge/LeetCode-1e1b2e?style=for-the-badge&logo=leetcode&logoColor=A78BFA"/></a>
+<a href="https://www.geeksforgeeks.org/user/your-username"><img src="https://img.shields.io/badge/GeeksforGeeks-1e1b2e?style=for-the-badge&logo=geeksforgeeks&logoColor=8B5CF6"/></a>
+<a href="https://www.hackerrank.com/your-username"><img src="https://img.shields.io/badge/HackerRank-1e1b2e?style=for-the-badge&logo=hackerrank&logoColor=6D28D9"/></a>
+<a href="https://www.codechef.com/users/lavishdixit"><img src="https://img.shields.io/badge/CodeChef-1e1b2e?style=for-the-badge&logo=codechef&logoColor=A78BFA"/></a>
+
+*(GFG and HackerRank still use `your-username` placeholders — swap in your handles if you have profiles there, or delete those two badges)*
 
 </div>
 
-<br/>
+---
 
-## ⟡ GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LavishDixit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=LavishDixit&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LavishDixit&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=LavishDixit&theme=radical&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavishDixit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavishDixit&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9c9c9" width="49%"/>
 
 </div>
 
-<br/>
+---
 
-## ⟡ GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LavishDixit&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LavishDixit&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
-<br/>
+---
 
-## ⟡ Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LavishDixit&theme=redical&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LavishDixit&theme=react-dark&bg_color=0d0221&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true"/>
 
 </div>
 
-<br/>
+---
 
-## ⟡ Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/LavishDixit/LavishDixit/output/github-contribution-grid-snake-dark.svg"/>
 
+*(requires the [snake generator GitHub Action](https://github.com/Platane/snk) set up on your profile repo)*
+
 </div>
 
-<br/>
+---
 
-## ⟡ Current Focus
+## 🎯 Current Focus
 
 ```yaml
-current_focus:
-  learning:
-    - Advanced RAG architectures & multi-agent LLM systems
-    - Vector database optimization at scale
-  building:
-    - Production-grade LLM & RAG applications
-    - Semantic search infrastructure with caching layers
-  exploring:
-    - Fine-tuning open-source LLMs
-    - Agentic AI workflows & tool-calling systems
-  open_to:
-    - AI/ML Engineer Internships
-    - AI Engineer full-time roles
+learning:
+  - Advanced RAG architectures (hybrid search, re-ranking)
+  - Scalable vector database design
+building:
+  - Production-grade LLM-powered applications
+  - Semantic search systems with caching layers
+exploring:
+  - Multi-agent LLM systems
+  - Fine-tuning workflows for domain-specific tasks
+open_to:
+  - AI/ML Engineer internships
+  - AI Engineer internships
 ```
 
-<br/>
+---
 
-## ⟡ Connect
+## 🔗 Connect With Me
 
 <div align="center">
 
-<a href="mailto:dixitlavish2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/lavish-dixit01"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/LavishDixit"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://lavish-dixit-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:dixitlavish2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b2e"/></a>
+<a href="https://linkedin.com/in/lavish-dixit01"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b2e"/></a>
+<a href="https://github.com/LavishDixit"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b2e"/></a>
+<a href="https://lavish-dixit-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b2e"/></a>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-*"Build systems that retrieve the right answer, not just an answer."*
+*"Turning embeddings into experiences, one retrieval at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
